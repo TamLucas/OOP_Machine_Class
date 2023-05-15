@@ -36,7 +36,7 @@ The project structure is organized as follows:
 
 ## Contributions
 
-This project was developed by Tamires Lucas. 
+This project was developed by Tamires Lucas as a final project in OOP class. 
 
 
 
